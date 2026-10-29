@@ -1,5 +1,7 @@
 # GamePygame
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## О проекте
 
 `GamePygame` — dungeon-crawler прототип с ASCII-представлением карты, генерацией комнат и коридоров, инвентарём, дверями, сундуками, предметами и несколькими типами боссов. Проект сочетает исследование подземелья, боевые столкновения и простую UI-обвязку с игровым чатом.
@@ -27,3 +29,8 @@ python main.py
 ## Статус
 
 `WIP`. Уже читается как полноценный игровой каркас, но по структуре это именно развиваемый прототип, а не завершённая игра.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
